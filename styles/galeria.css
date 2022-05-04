@@ -1,0 +1,17 @@
+
+body{
+    background-color: black;
+}
+nav{
+    color: black;
+}
+.footer{
+    background-color: rgb(250, 213, 6);
+}
+
+a{
+    margin: 0px  60px 0px;
+    height: fit-content;
+    flex-direction: column;
+    color:black
+}
